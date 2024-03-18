@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Samsung Galaxy S20",
+    "description": "5G smartphone with a 6.2-inch Quad HD+ Dynamic AMOLED 2X display.",
+    "price": "$999.99",
+    "brand": "Samsung",
+    "quantity": "1"
+  },
+  {
+    "name": "Apple iPhone 11",
+    "description": "6.1-inch Liquid Retina HD display. Dual-camera system (Ultra Wide, Wide).",
+    "price": "$699.00",
+    "brand": "Apple",
+    "quantity": "1"
+  },
+  {
+    "name": "OnePlus 8 Pro",
+    "description": "5G smartphone with 6.78-inch Fluid AMOLED display. 48 MP Quad Camera.",
+    "price": "$899.00",
+    "brand": "OnePlus",
+    "quantity": "1"
+  },
+  {
+    "name": "Google Pixel 4",
+    "description": "5.7-inch OLED display with Motion Sense. Dual 12.2 MP rear cameras.",
+    "price": "$799.00",
+    "brand": "Google",
+    "quantity": "1"
+  },
+  {
+    "name": "Huawei P40 Pro",
+    "description": "5G smartphone with 6.58-inch OLED display. 50 MP Ultra Vision Leica Quad Camera.",
+    "price": "$1,099.00",
+    "brand": "Huawei",
+    "quantity": "1"
+  },
+  {
+    "name": "Xiaomi Mi 10 Pro",
+    "description": "5G smartphone with 6.67-inch AMOLED display. 108 MP Quad Camera.",
+    "price": "$999.00",
+    "brand": "Xiaomi",
+    "quantity": "1"
+  },
+  {
+    "name": "LG G8 ThinQ",
+    "description": "6.1-inch OLED FullVision display. Dual 16 MP rear cameras.",
+    "price": "$849.99",
+    "brand": "LG",
+    "quantity": "1"
+  },
+  {
+    "name": "Motorola Edge Plus",
+    "description": "5G smartphone with 6.7-inch OLED display. 108 MP Triple Camera.",
+    "price": "$999.99",
+    "brand": "Motorola",
+    "quantity": "1"
+  },
+  {
+    "name": "Sony Xperia 1 II",
+    "description": "5G smartphone with 6.5-inch 4K HDR OLED display. Triple 12 MP cameras.",
+    "price": "$1,199.99",
+    "brand": "Sony",
+    "quantity": "1"
+  },
+  {
+    "name": "Nokia 9 PureView",
+    "description": "5.99-inch pOLED display. Five 12 MP cameras with ZEISS Optics.",
+    "price": "$699.00",
+    "brand": "Nokia",
+    "quantity": "1"
+  }
+]
